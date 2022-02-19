@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/iamgouravturka/tailwind-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamgouravturka/tailwind-css/issues"
+  },
+  "homepage": "https://github.com/iamgouravturka/tailwind-css#readme",
+  "dependencies": {
+    "vite": "^2.8.4"
+  }
+}
